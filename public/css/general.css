@@ -1,0 +1,19 @@
+:root {
+    --colorAzul : #2C3E50;
+	--colorVerde : #18BC9C;
+    --familyTitles : 'Montserrat'
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    text-decoration: none;
+}
+li{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
